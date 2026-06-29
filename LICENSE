@@ -1,0 +1,118 @@
+DOCUPICK UNIVERSAL VIEWER — PROPRIETARY SOURCE-AVAILABLE LICENSE
+Version 1.0, June 2026
+
+Copyright (c) 2026 King Æella (@aabdulmecitz). All Rights Reserved.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+NOTICE: THIS IS NOT AN OPEN-SOURCE LICENSE.
+This software is "Source-Available" — the source code is publicly visible
+for transparency and educational inspection ONLY. Public visibility does
+NOT grant any rights to use, copy, modify, or distribute this software.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+1. DEFINITIONS
+
+   "Software" refers to the DocuPick Universal Viewer source code, documentation,
+   assets, configuration files, and any associated materials contained in this
+   repository, in both source and compiled forms.
+
+   "Author" refers to the original copyright holder(s) listed above.
+
+   "You" refers to any individual, organization, corporation, or other legal
+   entity that accesses, views, or attempts to use the Software.
+
+2. GRANT OF RIGHTS
+
+   None. No rights are granted under this license except the limited right
+   to view the source code in its publicly hosted form (e.g., on GitHub)
+   for personal, non-commercial, educational inspection only.
+
+3. RESTRICTIONS
+
+   You are expressly PROHIBITED from doing any of the following, in whole
+   or in part, without prior written permission from the Author:
+
+   a) USE — You may NOT use the Software for any purpose, whether personal,
+      commercial, academic, governmental, non-profit, or otherwise.
+
+   b) COPY — You may NOT copy, reproduce, duplicate, or clone the Software
+      or any portion thereof to any medium or device.
+
+   c) MODIFY — You may NOT modify, alter, adapt, translate, reverse-engineer,
+      decompile, disassemble, or create derivative works based on the Software.
+
+   d) DISTRIBUTE — You may NOT distribute, publish, transmit, transfer,
+      sell, sublicense, lease, rent, lend, or otherwise make available the
+      Software to any third party, in any form.
+
+   e) MERGE — You may NOT merge, integrate, embed, or incorporate the
+      Software or any portion thereof into any other software, product,
+      service, or system.
+
+   f) FORK — You may NOT fork, branch, or create any copy of this repository
+      for any purpose other than viewing.
+
+   g) COMMERCIAL USE — You may NOT use the Software, directly or indirectly,
+      to generate revenue, provide services, build products, or gain any
+      commercial advantage.
+
+   h) AI/ML TRAINING — You may NOT use the Software as training data,
+      fine-tuning data, or input for any artificial intelligence, machine
+      learning, or large language model system.
+
+4. NO WARRANTIES
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+   THE AUTHOR MAKES NO REPRESENTATION OR WARRANTY THAT THE SOFTWARE WILL
+   BE ERROR-FREE, UNINTERRUPTED, SECURE, OR FREE OF HARMFUL COMPONENTS.
+
+5. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+   DAMAGES.
+
+6. TERMINATION
+
+   Any breach of this license automatically and immediately terminates the
+   limited viewing right granted in Section 2. Upon termination, you must
+   immediately destroy all copies of the Software in your possession.
+
+7. ENFORCEMENT
+
+   The Author reserves the right to pursue all available legal remedies
+   for any violation of this license, including but not limited to
+   injunctive relief, statutory damages, and recovery of attorney's fees.
+
+8. GOVERNING LAW
+
+   This license shall be governed by and construed in accordance with
+   applicable international copyright law and the domestic laws of the
+   Author's jurisdiction.
+
+9. SEVERABILITY
+
+   If any provision of this license is found to be unenforceable, the
+   remaining provisions shall continue in full force and effect.
+
+10. CONTACT
+
+    For licensing inquiries, commercial use requests, or written permission,
+    contact the Author directly through the repository's issue tracker or
+    listed contact information.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+  BY ACCESSING THIS REPOSITORY, YOU ACKNOWLEDGE THAT YOU HAVE READ,
+  UNDERSTOOD, AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE.
+
+  IF YOU DO NOT AGREE, CLOSE THIS REPOSITORY IMMEDIATELY.
+
+═══════════════════════════════════════════════════════════════════════════════
